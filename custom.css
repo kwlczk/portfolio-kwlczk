@@ -1,0 +1,414 @@
+@charset "UTF-8";
+/* CSS Document */
+.picture {
+	text-align:center;
+	padding: 5px;
+	border-width: 1px;
+}
+
+.h2 {
+	font-family: "Helvetica Neue";
+	color: #DCC596;
+	font-weight: lighter;
+	text-align: center;
+}
+
+.text {
+	text-align:center;
+}
+
+body {
+	background: url('http://www.kwlczk.com/background.png') no-repeat center center fixed;
+	background-size: cover;
+	/*text-align: center;
+	font-size: 18px;*/
+}
+
+header {
+	text-align:center
+}
+
+
+.h1 {
+	font-family: "Helvetica Neue";
+	color: #DCC596;
+	font-weight: lighter;
+	text-align: center;
+}
+body {
+	font-family: "Helvetica Neue";
+	color: #000;
+	font-weight: lighter;
+	font-size: 14px;
+}
+
+a {
+	font-family: "Helvetica Neue";
+	color: #000;
+	font-weight: lighter;
+}
+
+
+.p {
+	font-family: "Helvetica Neue";
+	color: #000;
+	font-weight: lighter;
+	font-size: 14px;¨
+	text-align: center;
+}
+
+.HIlink {
+ display:block;
+ background: url('http://www.kwlczk.com/HI.png') center top no-repeat;
+ text-indent: -99999px;
+}
+
+.HIlink:hover {
+	background-image: url('http://www.kwlczk.com/HI2.png');
+   background-position: center top no-repeat;
+}
+
+.Twitterbird {
+ display:block;
+ background: url('http://www.kwlczk.com/twitter.png') center top no-repeat;
+ text-indent: -99999px;
+}
+
+.Twitterbird:hover {
+	background-image: url('http://www.kwlczk.com/twitter2.png');
+   background-position: center top no-repeat;
+}
+
+.mailto {
+ display:block;
+ background: url('http://www.kwlczk.com/mail.png') center top no-repeat;
+ text-indent: -99999px;
+}
+
+.mailto:hover {
+	background-image: url('http://www.kwlczk.com/mail2.png');
+   background-position: center top no-repeat;
+}
+
+.LIlink {
+ display:block;
+ background: url('http://www.kwlczk.com/LI.png') center top no-repeat;
+ text-indent: -99999px;
+}
+
+.LIlink:hover {
+	background-image: url('http://www.kwlczk.com/LI2.png');
+   background-position: center top no-repeat;
+}
+
+
+.kwlczklogo {
+ display:block;
+ background: url('http://www.kwlczk.com/logo561.png') center top no-repeat;
+ text-indent: -99999px;
+}
+
+.kwlczklogo:hover {
+	background-image: url('http://www.kwlczk.com/logo2.png');
+   background-position: center top no-repeat;
+}
+
+.kwlczklogo2 {
+ width:100%;
+ height:100%;
+ display:block;
+ background: url('http://www.kwlczk.com/logosmall.png') center top no-repeat;
+ text-indent: -99999px;
+}
+
+
+.kwlczklogo2:hover {
+	background-image: url('http://www.kwlczk.com/logo3502.png');
+   background-position: center top no-repeat;
+}
+
+.meetourpeople {
+ width:350px;
+ height:350px;
+ display:block;
+ background: transparent url('http://www.kwlczk.com/p1.png') center top no-repeat;
+ text-indent: -99999px;
+}
+
+
+.meetourpeople:hover {
+	display:block;
+	background-image: url('http://www.kwlczk.com/meetourpeople2.png');
+   background-position: center top no-repeat;
+}
+
+.meetourpeopleb {
+ width:350px;
+ height:350px;
+ display:block;
+ background: transparent url('http://www.kwlczk.com/p3b.png') center top no-repeat;
+ text-indent: -99999px;
+ text-align:center;
+}
+
+
+.meetourpeopleb:hover {
+	display: block;
+	background-image: url('http://www.kwlczk.com/p3b2.png') center top no-repeat;
+	text-align: center;
+}
+
+.IRC {
+ width:350px;
+ height:350px;
+ display:block;
+ background: url('http://www.kwlczk.com/p2.png') center top no-repeat;
+ text-indent: -99999px;
+}
+
+
+.IRC:hover {
+	background-image: url('http://www.kwlczk.com/IRC2.png');
+   background-position: center top no-repeat;
+}
+
+.IRCb {
+ width:350px;
+ height:350px;
+ display:block;
+ background: url('http://www.kwlczk.com/p1b.png') center top no-repeat;
+ text-indent: -99999px;
+ text-align:center;
+}
+
+
+.IRCb:hover {
+	background-image: url('http://www.kwlczk.com/p1b2.png');
+   background-position: center top no-repeat;
+   text-align:center;
+}
+
+.bookofchange {
+ width:350px;
+ height:350px;
+ display:block;
+ background: url('http://www.kwlczk.com/p3.png') center top no-repeat;
+ text-indent: -99999px;
+}
+
+
+.bookofchange:hover {
+	background-image: url('http://www.kwlczk.com/bookofchange2.png');
+   background-position: center top no-repeat;
+}
+
+.bookofchangeb {
+ width:350px;
+ height:350px;
+ display:block;
+ background: url('http://www.kwlczk.com/p2b.png') center top no-repeat;
+ text-indent: -99999px;
+ text-align:center;
+}
+
+
+.bookofchangeb:hover {
+	background-image: url('http://www.kwlczk.com/p2b2.png');
+   background-position: center top no-repeat;
+   text-align:center;
+}
+
+.gameofme {
+ width:350px;
+ height:350px;
+ display:block;
+ background: url('http://www.kwlczk.com/p4.png') center top no-repeat;
+ text-indent: -99999px;
+}
+
+
+.gameofme:hover {
+	background-image: url('http://www.kwlczk.com/gameofme2.png');
+   background-position: center top no-repeat;
+}
+
+.gameofmeb {
+ width:350px;
+ height:350px;
+ display:block;
+ background: url('http://www.kwlczk.com/p4b.png') center top no-repeat;
+ text-indent: -99999px;
+ text-align:center;
+}
+
+
+.gameofmeb:hover {
+	background-image: url('http://www.kwlczk.com/p4b2.png');
+   background-position: center top no-repeat;
+   text-align:center;
+}
+
+
+.CV {
+ width:350px;
+ height:350px;
+ display:block;
+ background: url('http://www.kwlczk.com/p5.png') center top no-repeat;
+ text-indent: -99999px;
+}
+
+
+.CV:hover {
+	background-image: url('http://www.kwlczk.com/CV2.png');
+   background-position: center top no-repeat;
+}
+
+.CVb {
+ width:350px;
+ height:350px;
+ display:block;
+ background: url('http://www.kwlczk.com/p5b.png') center top no-repeat;
+ text-indent: -99999px;
+ text-align:center;
+}
+
+
+.CVb:hover {
+	background-image: url('http://www.kwlczk.com/p5b2.png');
+   background-position: center top no-repeat;
+   text-align:center;
+}
+
+.teamiskey {
+ width:350px;
+ height:350px;
+ display:block;
+ background: url('http://www.kwlczk.com/p6.png') center top no-repeat;
+ text-indent: -99999px;
+}
+
+
+.teamiskey:hover {
+	background-image: url('http://www.kwlczk.com/teamiskey2.png');
+   background-position: center top no-repeat;
+}
+
+.teamiskeyb {
+ width:350px;
+ height:350px;
+ display:block;
+ background: url('http://www.kwlczk.com/p6b.png') center top no-repeat;
+ text-indent: -99999px;
+ text-align:center;
+}
+
+
+.teamiskeyb:hover {
+	background-image: url('http://www.kwlczk.com/p6b2.png');
+   background-position: center top no-repeat;
+   text-align:center;
+}
+
+.realworldready {
+ width:350px;
+ height:350px;
+ display:block;
+ background: url('http://www.kwlczk.com/p7.png') center top no-repeat;
+ text-indent: -99999px;
+}
+
+
+.realworldready:hover {
+background-image: url('http://www.kwlczk.com/p7b2.png');
+background-position: center top no-repeat;
+}
+
+.realworldreadyb {
+ width:350px;
+ height:350px;
+ display:block;
+ background: url('http://www.kwlczk.com/p7b.png') center top no-repeat;
+ text-indent: -99999px;
+ text-align:center;
+}
+
+
+.realworldreadyb:hover {
+background-image: url('http://www.kwlczk.com/p7b2.png');
+background-position: center top no-repeat;
+text-align:center;
+}
+
+.eastpak {
+ width:350px;
+ height:350px;
+ display:block;
+ background: url('http://www.kwlczk.com/p8.png') center top no-repeat;
+ text-indent: -99999px;
+}
+
+
+.eastpak:hover {
+	background-image: url('http://www.kwlczk.com/p82.png');
+   background-position: center top no-repeat;
+}
+
+.Eastpakb {
+ width:350px;
+ height:350px;
+ display:block;
+ background: url('http://www.kwlczk.com/p8b.png') center top no-repeat;
+ text-indent: -99999px;
+ text-align:center;
+}
+
+
+.Eastpakb:hover {
+	background-image: url('http://www.kwlczk.com/p8b2.png');
+   background-position: center top no-repeat;
+   text-align:center;
+}
+
+
+.realdataart {
+ width:350px;
+ height:350px;
+ display:block;
+ background: url('http://www.kwlczk.com/p9.png') center top no-repeat;
+ text-indent: -99999px;
+}
+
+
+.realdataart:hover {
+	background-image: url('http://www.kwlczk.com/realdataart2.png');
+   background-position: center top no-repeat;
+}
+
+.realdataartb {
+ width:350px;
+ height:350px;
+ display:block;
+ background: url('http://www.kwlczk.com/p9b.png') center top no-repeat;
+ text-indent: -99999px;
+ text-align:center;
+}
+
+
+.realdataartb:hover {
+	background-image: url('http://www.kwlczk.com/p9b2.png');
+   background-position: center top no-repeat;
+   text-align:center;
+}
+
+.MOptitle {
+	font-family: "Helvetica Neue";
+	color: white;
+	font-weight: lighter;
+}
+
+.h2 {
+		font-family: "Helvetica Neue";
+	color: #DCC596;
+	font-weight: lighter;
+}
+
